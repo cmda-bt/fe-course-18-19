@@ -21,7 +21,7 @@
 
 ## Synopsis
 
-The course **Frontend** is given at [**@CMDA**][cmda] in 2019 between in the third en fourth quarter
+The course **Frontend** is given at [**@CMDA**][cmda] in 2019 in the third en fourth quarter
 
 * **Course**: Frontend
 * **Coordinator**: Joost Faber
