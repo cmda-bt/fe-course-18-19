@@ -82,7 +82,7 @@ if (!participation && !a1 && !a2) {
 
 #### Resources used in this course
 
-* 🆓 [Eloquent JavaScript](https://eloquentjavascript.net/3rd_edition/) -- Modern intro to programming
+* 🆓 [Eloquent JavaScript](https://eloquentjavascript.net/3rd_edition/) — Modern intro to programming
 
 #### Resources to refresh your memory
 
