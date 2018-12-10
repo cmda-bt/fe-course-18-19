@@ -78,23 +78,42 @@ if (!participation && !a1 && !a2) {
 }
 ```
 
-## Calendar
-
-## Effort
-
-###### Per activity
-
-###### Per week |
-
 ## Materials
 
 #### Resources used in this course
 
+* 🆓 [Eloquent JavaScript](https://eloquentjavascript.net/3rd_edition/) -- Modern intro to programming
+
 #### Resources to refresh your memory
+
+* 🆓 [Codecademy](https://www.codecademy.com/learn/introduction-to-javascript)
+  (**course**) — Intro to JavaScript: Learn to code interactively
+* 🆓 [Re-introduction to JavaScript](https://developer.mozilla.org/Web/JavaScript/A_re-introduction_to_JavaScript)
+  (**article**) — Short re-introduction to JavaScript
+* 🆓 [JavaScript Essentials](https://www.lynda.com/JavaScript-tutorials/JavaScript-Essential-Training/574716-2.html)
+  (**course**) — Learn JavaScript on Lynda
+  (free for AUAS students through our [portal][lynda-portal])
+* 🆓 [JavaScript For Cats](http://jsforcats.com)
+  (**book**) — Intro to JavaScript for new programmers
+* 🆓 [JavaScript 30](https://javascript30.com)
+  (**course**) — 30 day vanilla JavaScript coding challenge
+* 🆓 [Programming 101: Learn English](https://youtu.be/pOwnBPaW5zE)
+  (**video**)
 
 #### Resources used in previous courses
 
-#### Resources used in Frontend 2
+* Duckett, Jon.
+  _HTML & CSS_.
+  John Wiley & Sons, 2015
+  (**internetstandaarden**)
+* [Howe, Shay.
+  _Learn to Code HTML & CSS_.
+  New Riders, 2014][html-css]
+  (**internetstandaarden**)
+* Duckett, Jon.
+  _JavaScript & jQuery_.
+  John Wiley & Sons, 2015
+  (**inleiding programmeren**)
 
 ## Bugs
 
