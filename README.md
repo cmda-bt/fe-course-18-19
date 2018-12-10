@@ -36,7 +36,7 @@ The course **Frontend** is given at [**@CMDA**][cmda] in 2019 in the third en fo
 
 ## Description
 
-In Frontend 2 we concentrate on improving the knowledge of the core concepts of JavaScript and learn how to progressively enhance interfaces with HTML, CSS & JavaScript. In so called Dev-❤️-Des sessions multiple frontend components are designed and build.
+In Frontend 2 we concentrate on improving the knowledge of the core concepts of JavaScript and learn how to [progressively enhance][pe] interfaces with HTML, CSS & JavaScript. In so called Dev-❤️-Des sessions multiple frontend components are designed and build.
 
 Frontend 2 is an elective course given in Quarter 3 & 4 after the core curriculum of our programme, building further on knowledge acquired in Internetstandaarden, Inleiding Programmeren, and Frontend 1. This course is chosen alongside Backend and Project Tech, together making up Block Tech. In Project Tech you’ll apply your newfound frontend skills.
 
@@ -164,6 +164,7 @@ docs and images are [CC-BY-4.0][].
 [slack]: https://cmda-tech.slack.com
 [moodle-fe]: https://moodle.cmd.hva.nl/course/view.php?id=451
 [rooster]: https://rooster.hva.nl
+[pe]: https://en.wikipedia.org/wiki/Progressive_enhancement
 [http]: https://tools.ietf.org/html/rfc2068
 [command-line]: https://en.wikipedia.org/wiki/Command-line_interface
 [git]: https://git-scm.com
