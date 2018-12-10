@@ -21,7 +21,7 @@ Assessment 1 tests your knowledge of in this course acquired matter.
 
 This is a digital test that you take on your own computer.
 Bring a charger, identification, and water (no food).
-You are only allowed to use one browser window, the one containing the moodle exam.
+You are only allowed to use one browser tab, the one containing the moodle exam.
 
 ## Goals
 
