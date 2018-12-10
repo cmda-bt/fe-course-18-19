@@ -52,11 +52,10 @@ If you’d like to continue with web development after this course, do a tech in
 
 #### Main goals
 
-#### Subgoals
+The tow main goals in this course are that you:
 
-In practice you’ll learn to:
-
-<!--lint disable ordered-list-marker-value-->
+* improve your knowledge about core JavaScript concepts
+* are able build progressively enhanced frontend components
 
 ## Grade
 
