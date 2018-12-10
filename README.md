@@ -59,6 +59,25 @@ The tow main goals in this course are that you:
 
 ## Grade
 
+| Task                               |   Weight |
+| ---------------------------------- | -------: |
+| [Participation][]                  |      10% |
+| [Assessment 1※][a1] (digital test) |      40% |
+| [Assessment 2※][a2] (oral test)    |      50% |
+| **Total**                          | **100%** |
+
+> ※ passing both tests (min 5.5) is required
+
+```js
+if (!participation && !a1 && !a2) {
+  grade = 'GR';
+} else if (a1 < 5.5 || a2 < 5.5) {
+  grade = 1;
+} else {
+  grade = participation * 0.1 + a1 * 0.4 + a2 * 0.5;
+}
+```
+
 ## Calendar
 
 ## Effort
@@ -149,6 +168,9 @@ docs and images are [CC-BY-4.0][].
 [coc]: code-of-conduct.md
 [ruc]: https://www.amsterdamuas.com/practical-matters/algemeen/hva-breed/juridische-zaken/legal-affairs/regulation-undesirable-conduct/regulation-undesirable-conduct.html#anker-3-complaints-authority
 [rog]: https://www.hva.nl/praktisch/algemeen/hva-breed/juridische-zaken/loket-beroep-bezwaar-en-klacht/regeling-ongewenst-gedrag/regeling-ongewenst-gedrag.html?origin=gbS4rg%2FDTZuxQ6lGVF%2BN1A
+[a1]: assessment-1.md
+[a2]: assessment-2.md
+[participation]: participation.md
 [w1]: week-1.md
 [w2]: week-2.md
 [w3]: week-3.md
