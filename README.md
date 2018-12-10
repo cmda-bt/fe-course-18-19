@@ -1,4 +1,4 @@
-# Frontend (@CMDA) classroom
+# Frontend 2 (@CMDA) classroom
 
 <!--lint disable no-html-->
 
@@ -23,10 +23,10 @@
 
 The course **Frontend** is given at [**@CMDA**][cmda] in 2019 in the third en fourth quarter
 
-* **Course**: Frontend
+* **Course**: Frontend 2
 * **Coordinator**: Joost Faber
 * **Lecturers**: Joost Faber, Casper Boutens
-* **SIS**: Frontend Development
+* **SIS**: Frontend Development 2
 * **Credit**: 3 ECTS
 * **Academic year**: 2018-2019
 * **Period**: Quarter 3 & 4
@@ -36,10 +36,16 @@ The course **Frontend** is given at [**@CMDA**][cmda] in 2019 in the third en fo
 
 ## Description
 
+In Frontend 2 we concentrate on improving the knowledge of the core concepts of JavaScript and learn how to progressively enhance interfaces with HTML, CSS & JavaScript. In so called Dev-❤️-Des sessions multiple Frontend components are designed and build.
+
+Frontend 2 is an elective course given in Quarter 3 & 4 after the core curriculum of our programme, building further on knowledge acquired in Internetstandaarden, Inleiding Programmeren, and Frontend 1. This course is chosen alongside Backend and Project Tech, together making up Block Tech. In Project Tech you’ll apply your newfound frontend skills.
+
+If you’d like to continue with web development after this course, do a tech internship next quarter (Q4), choose Information Design (includes Frontend Apps, Functional Programming, and Frontend Data) for the fall semester next year, and pick Minor Everything Web in the spring semester after that.
+
 ## Communication
 
 * [GitHub][gh-fe] — Main source of information, assignments, important dates, and more
-* [Slack][] — General chatter and Q&A
+* [Slack][slack] — General chatter and Q&A
 * [Moodle][moodle-fe] — Schedulers
 
 ## Goals
