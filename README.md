@@ -52,10 +52,10 @@ If you’d like to continue with web development after this course, do a tech in
 
 #### Main goals
 
-The tow main goals in this course are that you:
+The two main goals in this course are that you:
 
-* improve your knowledge about core JavaScript concepts
-* are able build progressively enhanced frontend components
+* Improve your knowledge about core JavaScript concepts
+* Are able build progressively enhanced frontend components
 
 ## Grade
 
