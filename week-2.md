@@ -9,8 +9,6 @@ This lab is part of the two week JavaScript bootcamp.
 ## Program
 
 * Recap assignments ch 8-9; Q&A
-* Assignment tips
-* Fork GitHub repo
 
 ## Assignments
 
@@ -26,4 +24,5 @@ _Prepare these assignments before the lesson starts._
 Assignments for next lesson
 
 * Read ch 10-11 of Eloquent JavaScript
+* Exercises ... of Eloquent JavaScript
 * Publish chapter summaries and excercise solutions in the forked repo on GitHub

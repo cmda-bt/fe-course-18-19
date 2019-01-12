@@ -25,4 +25,5 @@ _Prepare these assignments before the lesson starts._
 Assignments for next lesson
 
 * Read ch 5-6 of Eloquent JavaScript
+* Exercises ... of Eloquent JavaScript
 * Publish chapter summaries and excercise solutions in the forked repo on GitHub
