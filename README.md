@@ -55,7 +55,7 @@ If you’d like to continue with web development after this course, do a tech in
 The two main goals in this course are that you:
 
 * Improve your knowledge about core JavaScript concepts
-* Are able build progressively enhanced frontend components
+* Are able to build progressively enhanced frontend components
 
 ## Grade
 
