@@ -30,5 +30,9 @@ _Prepare these assignments before the lesson starts._
 Assignments for next lesson
 
 * Read ch 5-6 of Eloquent JavaScript
-* Exercises ... of Eloquent JavaScript
-* Publish chapter summaries and excercise solutions in the forked repo on GitHub
+  * chapter 5: [Higher-Order Functions](https://eloquentjavascript.net/05_higher_order.html)
+  * chapter 6: [The Secret Life of Objects](https://eloquentjavascript.net/06_object.html)
+* Make ch5 - 6 exercises of Eloquent JavaScript
+  * Exercise 5.1: [Flattening](https://eloquentjavascript.net/05_higher_order.html#i_aIOczlLyX1)
+  * Exercise 6.1: [A vector type](https://eloquentjavascript.net/06_object.html#i_zO8FRQBMAy)
+* Publish chapter summaries and excercise solutions code in the forked repo on GitHub
