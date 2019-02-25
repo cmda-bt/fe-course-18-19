@@ -5,7 +5,7 @@
 #### Synopsis
 
 *   **Bootcamp**
-*   **Time**: 3:00h
+*   **Time**: 1:40h
 *   **Due**: before lesson 3
 
 ## Table of Contents
