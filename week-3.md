@@ -23,7 +23,7 @@ From [Eloquent JavaScript](https://eloquentjavascript.net/):
 * [Chapter 14: The Document Object Model](https://eloquentjavascript.net/14_dom.html)
 
 ## Practicum
-In this lesson you will start with building the Frontend code for the job story you designed in the Project Tech course. The Frontend code  will be based on the principles of Progressive Enhancement.
+In this lesson you start building the Frontend code for the job story designed in the Project Tech course. The Frontend code  will be based on the principles of Progressive Enhancement.
 
 ### In-class exercises
 * Desk research about Progressive Enhancement, share findings with the class (search for articles with code examples)
