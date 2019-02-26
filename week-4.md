@@ -38,8 +38,8 @@ Finish the following exercise from the corresponding chapter:
 ### Read
 Read these chapters from [Eloquent JavaScript](https://eloquentjavascript.net/):
 
-* [Chapter 13: JavaScript And The Browser](https://eloquentjavascript.net/13_browser.html)
-* [Chapter 14: The Document Object Model](https://eloquentjavascript.net/14_dom.html)
+* [Chapter 15: Handling Events](https://eloquentjavascript.net/15_event.html)
+* [Chapter 18: HTTP and Forms](https://eloquentjavascript.net/18_http.html)
 
 ## Hand in
 
