@@ -45,4 +45,4 @@ Read these chapters from [Eloquent JavaScript](https://eloquentjavascript.net/):
 
 Hand in your progess (chapter summaries and exercises) in your repository on GitHub under your username.
 
-[cover]: https://eloquentjavascript.net/img/chapter_picture_14.jpg
+[cover]: https://eloquentjavascript.net/img/chapter_picture_15.jpg
