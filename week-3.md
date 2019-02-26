@@ -6,7 +6,6 @@
 
 *   **Bootcamp**
 *   **Time**: 1:40h
-*   **Due**: before lesson 3
 
 ## Table of Contents
 
