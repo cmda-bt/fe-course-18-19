@@ -1,4 +1,4 @@
-# Lesson 1
+# Lesson 3
 
 ![][cover]
 
@@ -10,17 +10,9 @@
 
 ## Table of Contents
 
-* [Theory](#theory)
 * [Practicum](#practicum)
 * [Homework](#homework)
 * [Hand In](#hand-in)
-
-## Theory
-
-From [Eloquent JavaScript](https://eloquentjavascript.net/):
-
-* [Chapter 13: JavaScript And The Browser](https://eloquentjavascript.net/13_browser.html)
-* [Chapter 14: The Document Object Model](https://eloquentjavascript.net/14_dom.html)
 
 ## Practicum
 In this lesson you start building the Frontend code for the job story designed in the Project Tech course. The Frontend code  will be based on the principles of Progressive Enhancement.
@@ -41,8 +33,8 @@ Finish the following exercise from the corresponding chapter:
 ### Read
 Read these chapters from [Eloquent JavaScript](https://eloquentjavascript.net/):
 
-* [Chapter 15: Handling Events](https://eloquentjavascript.net/15_event.html)
-* [Chapter 18: HTTP and Forms](https://eloquentjavascript.net/18_http.html)
+* [Chapter 13: JavaScript And The Browser](https://eloquentjavascript.net/13_browser.html)
+* [Chapter 14: The Document Object Model](https://eloquentjavascript.net/14_dom.html)
 
 ## Hand in
 
