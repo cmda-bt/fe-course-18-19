@@ -8,21 +8,24 @@
 
 *   **Bootcamp**
 *   **Time**: 1:40h
-*   **Due**: before lesson 3
 
 ## Table of Contents
-
+* [Theory](#theory)
 * [Practicum](#practicum)
 * [Homework](#homework)
 * [Hand In](#hand-in)
 
-## Practicum
-In this lesson you start building the Frontend code for the job story designed in the Project Tech course. The Frontend code  will be based on the principles of Progressive Enhancement.
 
-### In-class exercises
-* Desk research about Progressive Enhancement, share findings with the class (search for articles with code examples)
-* Make a breakdown (HTML, CSS and JavaScript) of your job story, share findings with the class
-* Start coding!
+## Theory
+
+These chapters from [Eloquent JavaScript](https://eloquentjavascript.net/):
+
+* [Chapter 13: JavaScript And The Browser](https://eloquentjavascript.net/13_browser.html)
+* [Chapter 14: The Document Object Model](https://eloquentjavascript.net/14_dom.html)
+
+## Practicum
+In this lesson you continue building the Frontend code for the job story designed in the Project Tech course. The Frontend code  will be based on the principles of Progressive Enhancement.
+
 
 ## Homework
 
