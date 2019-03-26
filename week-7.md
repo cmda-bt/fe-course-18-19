@@ -15,7 +15,7 @@
 * [Homework](#homework)
 
 ## Theory
-We look at Asynchronous Programming and retieving information from a Rest API
+We discuss Asynchronous Programming and retrieving information from a Rest API. 
 
 ## Practicum
 In this lesson you continue building the Frontend code for the job story designed in the Project Tech course. The Frontend code  will be based on the principles of Progressive Enhancement.
