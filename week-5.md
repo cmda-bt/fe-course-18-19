@@ -29,7 +29,7 @@ In this lesson you continue building the Frontend code for the job story designe
 * Work on job story
 
 ## Homework
-.
-* Con tinue working on job story. Make sure to finish HTML & CSS. Start working on the client side JavaScript Enhancement
+
+* Continue working on job story. Make sure to finish HTML & CSS. Start working on the client side JavaScript Enhancement
 
 [cover]: https://eloquentjavascript.net/img/chapter_picture_15.jpg
