@@ -6,7 +6,7 @@
 
 #### Synopsis
 
-*   **Bootcamp**
+*   **Regular lesson**
 *   **Time**: 1:40h
 
 ## Table of Contents
