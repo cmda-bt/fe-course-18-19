@@ -26,3 +26,5 @@ You are only allowed to use one browser tab, the one containing the moodle exam.
 ## Goals
 
 This assessment focusses on the first main goal of this course: **improve your knowledge about core JavaScript concepts**
+
+[Rubric](https://docs.google.com/spreadsheets/d/1gQikOtJB3QwIjbdfrHf4BT5bDpCDR0bSm81sMovtTGs/edit?usp=sharing)
