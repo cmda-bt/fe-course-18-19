@@ -37,7 +37,7 @@ You do not need to create an issue.
 
 This assessment focusses on all [main goals][mg] of this course: **you improve your knowledge about core JavaScript concepts** and **you are able to build progressively enhanced frontend components**.
 
-[Rubric]https://docs.google.com/spreadsheets/d/1gQikOtJB3QwIjbdfrHf4BT5bDpCDR0bSm81sMovtTGs/edit?usp=sharing
+[Rubric](https://docs.google.com/spreadsheets/d/1gQikOtJB3QwIjbdfrHf4BT5bDpCDR0bSm81sMovtTGs/edit?usp=sharing)
 
 ## Plagiarism
 
