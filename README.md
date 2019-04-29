@@ -66,17 +66,7 @@ The two main goals in this course are that you:
 | [Assessment 2※][a2] (oral test)    |      50% |
 | **Total**                          | **100%** |
 
-> ※ passing both tests (min 5.5) is required
 
-```js
-if (!participation && !a1 && !a2) {
-  grade = 'GR';
-} else if (a1 < 5.5 || a2 < 5.5) {
-  grade = 1;
-} else {
-  grade = participation * 0.1 + a1 * 0.4 + a2 * 0.5;
-}
-```
 
 ## Materials
 
