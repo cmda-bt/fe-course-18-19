@@ -66,7 +66,7 @@ The two main goals in this course are that you:
 | [Assessment 2※][a2] (oral test)    |      50% |
 | **Total**                          | **100%** |
 
-
+> Participation and assessments compensate each other
 
 ## Materials
 
