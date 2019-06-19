@@ -12,7 +12,6 @@
 * **Type**: Digital test
 * **Date**: In the last week of the course
 * **Time**: 1:40h (2:30 w/ extra time)
-* **Grade**: At least 5.5 to pass this course
 * **Bring**: Laptop, charger, and identification
 
 ## Description
